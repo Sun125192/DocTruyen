@@ -1,0 +1,14 @@
+/* Thay đổi kích thước vùng soạn thảo CKEditor */
+.ck-editor__editable[role="textbox"] {
+    /* editing area */
+    min-height: 400px;
+    min-width: 1200px;
+    /* Các thuộc tính CSS khác tùy chỉnh */
+  }
+  
+  .ck-content .image {
+      /* block images */
+      max-width: 08%;
+      margin: 20px auto;
+  }
+  
